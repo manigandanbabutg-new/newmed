@@ -1,0 +1,6 @@
+{
+  "name": "Hourly Break and Meditation App",
+  "description": "An hourly break reminder, interactive breathing guide, and meditation timer with background calm music and custom notification sounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
